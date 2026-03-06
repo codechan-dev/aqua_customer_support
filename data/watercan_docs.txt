@@ -1,0 +1,116 @@
+WaterCan Delivery System - Service Overview
+-------------------------------------------
+WaterCan Delivery is a subscription-based 20-liter drinking water can delivery service
+for homes, offices, and small businesses. The service operates from 6:00 AM to 10:00 PM
+every day, including weekends and public holidays.
+
+Customers can place orders using the mobile app, website, or phone call to the call center.
+Standard delivery time is 60–90 minutes within city limits. Express delivery (30–45 minutes)
+is available in selected areas for an additional fee.
+
+
+Product Types
+-------------
+1. 20L Refillable Water Can
+   - Food-grade reusable plastic jar
+   - Requires customers to return empty cans at the next delivery
+   - Security deposit is charged for each new can issued
+
+2. 20L Disposable Water Can
+   - Single-use sealed can
+   - No return required, no deposit
+   - Slightly higher per-can price than refillable
+
+
+Pricing & Charges
+-----------------
+- Base price per 20L refillable can: 80–120 INR (city-dependent)
+- Base price per 20L disposable can: 110–150 INR
+- Express delivery charge: 20–40 INR per order
+- Night-time surcharge (after 9:00 PM): 10–20 INR per order
+- Empty can security deposit (refillable only): 200–300 INR per can, refundable when can is returned
+
+Bulk discounts may be available for offices ordering 10 or more cans per day under a monthly contract.
+
+
+Order Placement Rules
+---------------------
+- Minimum order quantity: 1 can
+- Maximum order quantity per single order: 20 cans
+- Customers must share a valid delivery address and mobile number
+- OTP verification may be required for first-time customers
+
+Orders can be scheduled in advance. Customers can choose a preferred delivery slot of 1 hour
+between 6:00 AM and 9:00 PM.
+
+
+Subscription Plans
+------------------
+Customers can subscribe to weekly or monthly plans to get regular deliveries:
+
+1. Weekly Plan
+   - Fixed number of cans per week (e.g., 3, 5, or 7 cans)
+   - Deliveries are auto-scheduled on selected weekdays
+   - Slightly lower per-can rate than one-time orders
+
+2. Monthly Plan
+   - Fixed number of cans per month (e.g., 12, 20, or 30 cans)
+   - Flexible scheduling with the option to pause for up to 10 days
+   - Best discount per can compared to other options
+
+Subscription customers get priority support and faster resolution of issues.
+
+
+Delivery & Logistics
+--------------------
+- Delivery partners use bikes or mini-vans to deliver cans
+- Each delivery partner has a maximum capacity per trip based on vehicle type
+- The system assigns orders to the nearest available delivery partner
+- If there is a delay beyond the promised time window, customers may receive a coupon or discount
+
+Customers can track their order status in real time through the app:
+  - Placed
+  - Confirmed
+  - Out for Delivery
+  - Delivered
+  - Cancelled
+
+
+Cancellation & Refund Policy
+----------------------------
+- Orders can be cancelled for free up to 15 minutes after placing
+- If the order is already out for delivery, a small cancellation fee may be charged
+- If the delivery partner reaches the location but the customer is unavailable,
+  the order may be marked as "Attempted" and a re-delivery fee may apply
+
+Refunds for cancelled orders are processed back to the original payment method
+within 3–5 working days.
+
+
+Payment Methods
+---------------
+- Cash on Delivery (COD)
+- UPI apps (e.g., PhonePe, Google Pay, Paytm)
+- Credit and debit cards
+- Wallet balance (prepaid top-ups in the app)
+
+For subscription customers, auto-debit can be enabled using cards or UPI mandates.
+
+
+Common FAQs
+-----------
+Q: What is the minimum order quantity?
+A: The minimum order quantity is 1 water can.
+
+Q: Do I have to return the empty can?
+A: Yes, for refillable cans you must return the empty jars. Disposable cans do not need to be returned.
+
+Q: How long does delivery take?
+A: Standard delivery takes 60–90 minutes. Express delivery takes 30–45 minutes in supported areas.
+
+Q: Can I pause my subscription?
+A: Yes, monthly subscribers can pause their plan for up to 10 days per month.
+
+Q: Is the water safe to drink?
+A: Yes, all water is purified using RO + UV + mineralization and tested regularly as per local standards.
+
